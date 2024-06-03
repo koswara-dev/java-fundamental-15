@@ -35,6 +35,10 @@ public class MethodJava {
 
         // method String contains
         System.out.println(inputPassword.contains("wors"));
+
+        // panggil fungsi array
+        String[] cars = {"Volvo", "BMW", "Toyota", "Ford", "Mazda"};
+        System.out.println(cariKataTerpanjang(cars));
     }
 
     public static void display(){
