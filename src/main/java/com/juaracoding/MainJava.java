@@ -30,6 +30,11 @@ public class MainJava {
             }
         }
 
+
+        // Panggil method luasKotak
+        System.out.println(MethodJava.luasKotak(10));
+
+
     }
 
 
